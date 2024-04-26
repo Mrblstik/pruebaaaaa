@@ -6,3 +6,6 @@
 
 
 ## conflicto resuelto ##
+
+
+## navegacion lista ##
