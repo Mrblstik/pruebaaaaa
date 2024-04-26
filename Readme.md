@@ -3,3 +3,6 @@
 
 
 ## simo.munoz@duocuc.cl ##
+
+
+## conflicto resuelto ##
